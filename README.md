@@ -1,4 +1,5 @@
-# Fabric Example Mod
+# Feather64 Client
+For use with the [Feather64 Launcher](https://github.com/nn0ble/suslunch)
 
 ## Setup
 
